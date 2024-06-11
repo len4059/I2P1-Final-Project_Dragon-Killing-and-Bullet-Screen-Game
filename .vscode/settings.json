@@ -1,0 +1,13 @@
+{
+	"terminal.integrated.env.windows": {
+		"PATH": "${workspaceFolder}\\MinGW\\bin;${env:PATH}"
+	},
+	"files.associations": {
+		"allegro_image.h": "c",
+		"allegro_acodec.h": "c",
+		"allegro_ttf.h": "c",
+		"allegro_primitives.h": "c",
+		"dir_bullet.h": "c"
+	},
+	"C_Cpp.errorSquiggles": "disabled"
+}
